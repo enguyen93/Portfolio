@@ -1,3 +1,3 @@
-### My Portfolio
+# My Portfolio
 ## Link - https://enguyen93.github.io/Portfolio/
-# Thank you for taking a look!
+## Thank you for taking a look!
