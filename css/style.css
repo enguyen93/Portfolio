@@ -583,6 +583,9 @@ li, ul {
 	-o-transition: all 0.4s ease 0s;
 	transition: all 0.4s ease 0s;
 }
+.card-body{
+	margin-bottom:5px;
+}
 
 
 
